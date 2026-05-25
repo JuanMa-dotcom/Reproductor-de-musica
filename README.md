@@ -232,7 +232,7 @@ El programa detecta si ya existe una canción con el mismo nombre y pregunta si 
 
 Para reportar errores o sugerir mejoras:
 - **GitHub:** https://github.com/JuanMa-dotcom/Reproductor-de-musica
-- **Email:** [tu-email@ejemplo.com]
+- **Email:** juan.valdez4064@alumnos.udg.mx 
 
 ---
 
