@@ -245,5 +245,5 @@ Para reportar errores o sugerir mejoras:
 - **Documentacion:** Aaron Becerra, Axel Gutierrez 
 ---
 
-**Versión:** 1.0  
-**Última actualización:** Mayo 2026
+**Versión:** 3.0  
+**Última actualización:** Mayo 24 del 2026
